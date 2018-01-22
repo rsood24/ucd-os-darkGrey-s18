@@ -1,6 +1,6 @@
 # ucd-os-darkGrey-s18
 
-This is repository for an OS class
+This is a repository for an OS class
 
 Team members:
 
